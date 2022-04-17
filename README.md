@@ -1,8 +1,14 @@
+# Introduction
 
-- Hi world! I'm Vivek, a computational physicist by proffession and training.
-- Sustainable computer hardware and software intrigue me 💞️ 
+Hi world! I am Vivek, a computational physicist by profession and training
+currently working at Stockholm university.
 
----> More to come 
+> I'm hosting my wip website here: [MyWebPage](https://vivch14.github.io/).
+
+> [ML Based Exchange Rate Forecaster](https://github.com/VivCh14/forexmontior)
+
+...
+
 
 <!---
 VivCh14/VivCh14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
