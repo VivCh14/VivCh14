@@ -1,4 +1,4 @@
-# Introduction
+# Who am I ?
 
 Hi world! I am Vivek, Data scientist and Analyst by profession and training
 currently working at Stockholm university. I am skilled at analytical and numerical modeling
