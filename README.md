@@ -10,7 +10,7 @@ showcasing what's possible with data.
 
 > [ML Based Exchange Rate Forecaster](https://github.com/VivCh14/forexmontior)
 
-> [Interactive Stockholm Apartment Price Explorer and Predictor](https://sthlmapartments-app.herokuapp.com)
+> [Interactive Stockholm Apartment Price Explorer and Predictor](https://sthlmapartments-app.onrender.com)
 
 
 
