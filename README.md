@@ -1,7 +1,8 @@
 # Who am I ?
 
-Hi world! I am Vivek, Data scientist and Analyst by profession and training
-currently working at Stockholm university. I am skilled at analytical and numerical modeling
+Hi world! I am Vivek, a physicist with a Ph.D. in computational/numerical physics,
+specializing in applying advanced mathematical techniques to complex problems.
+I spend my days as a fullstack data scientist. I am skilled in analytical and numerical modeling
 and love doing all sorts of fun things with data like hunting for facts and weaving a visual story
 out of it. My recent favorite: [VisualCapitalist](https://www.visualcapitalist.com/), a great platform
 showcasing what's possible with data.
